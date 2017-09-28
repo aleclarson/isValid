@@ -1,0 +1,8 @@
+{
+  "name": "isValid",
+  "version": "1.0.0",
+  "main": "isValid.js",
+  "dependencies": {
+    "valido": "aleclarson/valido#1.1.2"
+  }
+}
