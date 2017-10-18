@@ -1,5 +1,5 @@
 
-# isValid v1.0.0
+# isValid v1.0.1
 
 ```js
 const isValid = require('isValid');
